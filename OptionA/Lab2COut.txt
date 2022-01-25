@@ -1,0 +1,112 @@
+                                      		   ACME Sports Inc.
+                             		  We are the best, you use the best!
+                                  			ACME
+Emp.No.		Given		Surname	     Dept.	  YTD ($)	Gross ($)	FICA Tax	Net	
+
+  6            Zachery          Foley         Acct       110629.60        529.60 	    0.00        529.60
+ 10             Derius           Hall         Acct        67874.14       1371.52 	   97.38       1274.14
+ 22             Amanda         Hayden         Acct        36692.90        100.00 	    7.10         92.90
+ 24              Allyn           Heft         Acct       111605.00       1515.71 	    0.71       1515.00
+
+                                                    Page Totals:         3516.83       105.19       3411.64
+
+
+
+
+
+
+
+
+
+                                                                                                         Page 1
+---------------------------------------------------------------------------------------------------------------
+                                  			ACME
+Emp.No.		Given		Surname	      Dept.	    YTD ($)	 Gross ($)	FICA Tax	Net	
+
+ 13               Chad          Henry         Acct         2266.44        977.50 	   69.40        908.10
+
+                                                    Department Totals:   4494.33       174.59       4319.74
+
+  5              Henry           Huff           DP       110099.29         10.00 	    0.71          9.29
+
+                                                    Department Totals:     10.00         0.71          9.29
+
+  3               Paul        Iniguez          Mgt       680980.69       7502.40 	    0.00       7502.40
+  1             Samuel        Johnsen          Mgt       138574.50       4340.16 	    0.00       4340.16
+
+                                                    Department Totals:  11842.56         0.00      11842.56
+
+
+                                                    Page Totals:        12830.06        70.11      12759.95
+
+
+
+
+
+
+
+
+
+                                                                                                         Page 2
+---------------------------------------------------------------------------------------------------------------
+                                  			ACME
+Emp.No.		Given		Surname	     Dept.	   YTD ($)	Gross ($)	FICA Tax	Net	
+
+  4              Selim         Kandaz        Sales        13132.78       1924.18 	  136.62       1787.56
+ 12             Graham           Kemp        Sales          869.15        683.08 	   48.50        634.59
+ 17               Cory        Lorenzo        Sales         3595.03       1348.42 	   95.74       1252.69
+  7             Nuhash         Mashud        Sales        68271.98       1369.20 	   97.21       1271.99
+
+                                                    Department Totals:   5324.89       378.07       4946.82
+
+
+                                                    Page Totals:         5324.89       378.07       4946.82
+
+
+
+
+
+
+
+
+
+                                                                                                         Page 3
+---------------------------------------------------------------------------------------------------------------
+                                  			ACME
+Emp.No.		Given		Surname	     Dept.	   YTD ($) 	 Gross ($)	FICA Tax	Net	
+
+ 86             Joshua         Prince        Inven        12837.78        529.60 	   37.60        492.00
+ 66               Bret          Smith        Inven       114433.09       4441.52 	    7.19       4434.33
+ 51            Saranya       Srikanth        Inven       206700.00        100.00 	    0.00        100.00
+ 38               Kyle       Stanford        Inven        80093.42       1885.28 	  133.85       1751.42
+
+                                                    Department Totals:   6956.40       178.64       6777.75
+
+
+                                                    Page Totals:         6956.40       178.64       6777.75
+
+
+
+
+
+
+
+
+
+                                                                                                         Page 4
+---------------------------------------------------------------------------------------------------------------
+
+
+		                                        Report Summary
+
+Records Processed : 16
+Total Gross:  $28628.18
+Total Net :  $27896.17
+Total Fica :  $732.01
+
+
+
+
+
+
+                                                                                                         Page 5

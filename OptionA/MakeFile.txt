@@ -1,0 +1,12 @@
+#!/bin/sh
+Bdriver: L2Main.o CalcGross.o CalcFica.o NewPage.o
+    gcc -o Bdriver L2Main.o CalcGross.o CalcFica.o NewPage.o
+L2Main.o: srcDir/L2Main.c
+    gcc -c -o L2Main.o srcDir/L2Main.c
+CalcGross.o: srcDir/CalcGross.c
+    gcc -c -o CalcGross.o srcDir/CalcGross.c
+CalcFica.o: srcDir/CalcFica.c
+    gcc -c -o CalcFica.o srcDir/CalcFica.c
+NewPage.o: srcDir/NewPage.c
+    gcc -c -o NewPage.o srcDir/NewPage.c
+
