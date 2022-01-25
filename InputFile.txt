@@ -1,0 +1,16 @@
+6  Foley      Zachery     Acct	 110100.00	13.24	40.0	
+10 Hall       Derius      Acct	  66600.00	17.87	64.5	
+22 Hayden     Amanda      Acct	  36600.00	10.00	10.0
+24 Heft       Allyn       Acct	 110090.00	41.3	36.7	
+13 Henry      Chad        Acct	   1358.34	16.22	53.51
+5  Huff       Henry       DP	 110090.00	10.00	 1.0	
+3  Iniguez    Paul        Mgt	 673478.34     187.56	40.0	
+1  Johnsen    Samuel      Mgt	 134234.34      67.42	56.25	
+4  Kandaz     Selim       Sales  11345.22	23.77	67.3	
+12 Kemp       Graham      Sales    234.56      17.56	38.9	
+17 Lorenzo    Cory        Sales   2342.34      27.86	45.6	
+7  Mashud     Nuhash      Sales  67000.00	34.23	40.0	
+86 Prince     Joshua      Inven  12345.78	13.24	40.0	
+66 Smith      Bret        Inven 109998.75	57.87	64.5	
+51 Srikanth   Saranya     Inven 206600.00	10.00	10.0	
+38 Stanford   Kyle        Inven  78342.00	51.3	36.75
