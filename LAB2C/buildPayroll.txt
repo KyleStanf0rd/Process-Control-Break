@@ -1,0 +1,7 @@
+#!/bin/sh
+gcc -c -o L2Main.o Main/L2Main.c
+gcc -c -o NewPage.o NewPage/NewPage.c
+gcc -c -o CalcGross.o Gross/CalcGross.c
+gcc -c -o CalcFica.o Fica/CalcFica.c
+gcc -o driver L2Main.o NewPage.o CalcGross.o CalcFica.o
+
